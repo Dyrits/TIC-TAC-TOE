@@ -1,36 +1,43 @@
 # Tic-Tac-Toe
 
-## Description
-The Tic-Tac-Toe is a terminal two players game.  
-Each turn, a player enter the coordinates "Y X" of a position in the grid. Y corresponds to the row, from 1 to 3. X corresponds to the column, from 1 to 3.
+A terminal two-player Tic-Tac-Toe game written in Python, a JetBrains Academy course project.
+
+## About The Project
+
+Each turn, a player enters the coordinates "Y X" of a position in the grid. Y corresponds to the row, from 1 to 3. X corresponds to the column, from 1 to 3.
 
 ### Preview
-![alt text](screenshot.png "Screenshot")
 
-## More about this project
+![Screenshot](screenshot.png "Screenshot")
 
-### Related course
-JET BRAINS ACADEMY | PYTHON DEVELOPER
+### Course
 
-### Description of the project by JET BRAINS ACADEMY
+JetBrains Academy - Python Developer
 
-#### About
-Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!
+From the course's project description: after finishing this project, you will know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
 
-#### Learning outcomes
-After finishing this project, you'll get to know a lot about planning and developing a complex program from scratch, using functions, handling errors, and processing user input.
+### Built With
 
-### Technologies | Libraries | Frameworks | Tools  
 - Python 3
 
-### Details | Comments
-- This project has been made from scratch following specific instructions.  
+## Getting Started
 
-### Status
-Completed
+Run the game with Python 3:
 
-#### Last update
-18/05/2020
+```sh
+python tic-tac-toe.py
+```
 
-#### Last update (README.md)
-20/06/2020
+## Notes
+
+The following note is from the original README:
+
+- This project was made from scratch following specific instructions.
+
+## Status
+
+Completed (per the original README).
+
+## License
+
+No license file is present in this repository.
